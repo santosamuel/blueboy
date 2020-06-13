@@ -1,0 +1,18 @@
+h1{
+	text-align: center;
+	color : rgb(255, 255, 255);
+	background-color : rgb(124, 200, 200);
+	border : 1px solid black;
+}
+
+h2{
+	text-align: center;
+	background-color : rgb(80, 65, 146);
+	color : rgb(255,255,255);
+	border : 1px solid black;
+}
+
+h3{
+	color : rgb(13,20,200);
+	border : 1px solid black;
+}

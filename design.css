@@ -1,0 +1,51 @@
+h1 {
+	text-align : center;
+}
+
+.back {
+	background-image : url('firefly.jpg');
+	background-repeat : no-repeat;
+}
+
+.body {
+	font-size : 20px;
+	text-align : justify;
+}
+
+.comic {
+	font-family : Comic Sans MS;
+}
+
+.font {
+	font-family : monospace;
+}
+
+.unordered{
+	font-family : fantasy;
+}
+
+.rubick {
+	float : left;
+	width : 150px;
+	height : 100px;
+}
+
+.whoops {
+	float : right;
+	width : 220px;
+	height : 150px;
+	padding-left : 10px;
+}
+
+.rachel {
+	font-size : 25px;
+}
+
+.colors {
+	float : right;
+	width : 500px;
+	height : 250px;
+	opacity : 0.7;
+}
+
+
